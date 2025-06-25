@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "DJ Blaze",
+    "category": "DJ",
+    "priceRange": "₹10,000 - ₹25,000",
+    "location": "Mumbai"
+  },
+  {
+    "id": 2,
+    "name": "Priya Kapoor",
+    "category": "Singer",
+    "priceRange": "₹15,000 - ₹30,000",
+    "location": "Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Mehta",
+    "category": "Dancer",
+    "priceRange": "₹8,000 - ₹20,000",
+    "location": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "Sana Ali",
+    "category": "Speaker",
+    "priceRange": "₹12,000 - ₹18,000",
+    "location": "Hyderabad"
+  }
+]
